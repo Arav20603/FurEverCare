@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "name": "Deluxe Dog Bed",
+    "description": "Soft, comfy bed for all dog sizes.",
+    "price": "₹1,299",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRtG4Dk-kRA9XfNFkK4KolAObKEVE9ZxkF6mBx8w5VF_dbc21g_Fx0rDMVyKXSKtcsLSqzr99LfLbZEZZEQIwX7XR1MnUT17j2KoABnzxG1&usqp=CAc"
+  },
+  {
+    "id": "2",
+    "name": "Cat Scratching Post",
+    "description": "Keep your cats entertained and away from furniture.",
+    "price": "₹899",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYazx-P8gTPW8o_2TuTrb_N7SHvrx3ksU_vh925EQ83l0D1YTh10qbxKFXDLBb5rnCY5Kfm-NATB2TD6yhTtDhhA90vN9A2srciWLaKnyMDRSijfNbPdU8fA&usqp=CAc"
+  },
+  {
+    "id": "3",
+    "name": "Dog Food - Chicken Flavour 5kg",
+    "description": "Nutritious and tasty for adult dogs.",
+    "price": "₹2,199",
+    "image": "https://www.petsupermarket.com/dw/image/v2/BGTK_PRD/on/demandware.static/-/Sites-petsupermarket-m-catalog/default/dwa49faaa4/images/original/FCM03298.1.jpg?sw=800&sh=800"
+  },
+  {
+    "id": "4",
+    "name": "Pet Shampoo - Aloe Vera",
+    "description": "Gentle on skin, ideal for regular use.",
+    "price": "₹350",
+    "image": "https://m.media-amazon.com/images/I/61CCmgfrmPL.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Bird Cage - Medium",
+    "description": "Spacious cage for your feathered friends.",
+    "price": "₹1,799",
+    "image": "https://media.istockphoto.com/id/1061070090/photo/success-concept-open-birds-cell-isolation-on-a-white-background-3d-illustration.jpg?s=612x612&w=0&k=20&c=XLtA-Ms-dOjiORRkLU_IxJYYs8Kz6vozaEj9MAWhdfM="
+  },
+  {
+    "id": "6",
+    "name": "Fish Tank Filter",
+    "description": "Keeps aquarium water clean and fresh.",
+    "price": "₹499",
+    "image": "https://m.media-amazon.com/images/I/710nBOmsk0L.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Pet Carrier Backpack",
+    "description": "Transparent and breathable carrier for small pets.",
+    "price": "₹1,999",
+    "image": "https://www.buraqpets.com/cdn/shop/files/PETBAG1.png?v=1719479217"
+  },
+  {
+    "id": "7",
+    "name": "Dog Raincoat",
+    "description": "Waterproof jacket for dogs. Available in sizes S to XL.",
+    "price": "₹799",
+    "image": "https://m.media-amazon.com/images/I/61oX2V1ZodL.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Pet Nail Grinder",
+    "description": "Safe electric trimmer for dogs and cats.",
+    "price": "₹999",
+    "image": "https://m.media-amazon.com/images/I/61GSFczcJ3L.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Interactive Laser Toy",
+    "description": "Motion-activated laser to entertain your cat.",
+    "price": "₹599",
+    "image": "https://getvetco.com/wp-content/uploads/2021/06/FroliCat-BOLT-Interactive-Laser-Pet-Toy.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Pet Water Fountain",
+    "description": "Circulating water bowl with filter for hydration.",
+    "price": "₹1,499",
+    "image": "https://www.innovagoods.com/cdn/shop/products/8435527824778_V0103692_020_MKT0_800x.jpg?v=1677332092"
+  },
+  {
+    "id": "11",
+    "name": "Dog Collar with Name Tag",
+    "description": "Custom engraved collar with name and number.",
+    "price": "₹499",
+    "image": "https://i.etsystatic.com/54170765/r/il/6e8d55/6772557491/il_fullxfull.6772557491_sxwv.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Pet Toothbrush & Paste Kit",
+    "description": "Maintain your pet’s dental hygiene easily.",
+    "price": "₹349",
+    "image": "https://cdn.mos.cms.futurecdn.net/9isrMrKWVRYJcHo5LpUGXd.png"
+  }
+]

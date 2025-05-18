@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "animalType": "Dog",
+    "description": "Injured on the side of the road, limping badly.",
+    "location": "HSR Layout",
+    "latitude": 12.9166,
+    "longitude": 77.6101,
+    "contact": "9876543210",
+    "status": "New"
+  },
+  {
+    "id": 2,
+    "animalType": "Cat",
+    "description": "Stray kitten stuck on rooftop, meowing constantly.",
+    "location": "Indiranagar",
+    "latitude": 12.9719,
+    "longitude": 77.6412,
+    "contact": "8765432109",
+    "status": "New"
+  },
+  {
+    "id": 3,
+    "animalType": "Cow",
+    "description": "Lying in the middle of traffic, may be injured.",
+    "location": "Jayanagar",
+    "latitude": 12.9250,
+    "longitude": 77.5938,
+    "contact": "7894561230",
+    "status": "In Progress"
+  },
+  {
+    "id": 4,
+    "animalType": "Bird",
+    "description": "Parrot with injured wing found in balcony.",
+    "location": "Koramangala",
+    "latitude": 12.9352,
+    "longitude": 77.6146,
+    "contact": "9988776655",
+    "status": "Resolved"
+  },
+  {
+    "id": 5,
+    "animalType": "Dog",
+    "description": "Puppy found crying near a garbage dump.",
+    "location": "Whitefield",
+    "latitude": 12.9698,
+    "longitude": 77.7499,
+    "contact": "8123456789",
+    "status": "New"
+  },
+  {
+    "id": 6,
+    "animalType": "Monkey",
+    "description": "Monkey caught in electric wires on a tree.",
+    "location": "BTM Layout",
+    "latitude": 12.9165,
+    "longitude": 77.6102,
+    "contact": "9234567890",
+    "status": "New"
+  },
+  {
+    "id": 7,
+    "animalType": "Squirrel",
+    "description": "Baby squirrel fallen from a tree.",
+    "location": "MG Road",
+    "latitude": 12.9740,
+    "longitude": 77.6094,
+    "contact": "9012345678",
+    "status": "In Progress"
+  },
+  {
+    "id": 8,
+    "animalType": "Rabbit",
+    "description": "Domestic rabbit found wandering in the park.",
+    "location": "Cubbon Park",
+    "latitude": 12.9763,
+    "longitude": 77.5929,
+    "contact": "9321654987",
+    "status": "New"
+  },
+  {
+    "id": 9,
+    "animalType": "Dog",
+    "description": "Dog hit by vehicle, bleeding, near signal.",
+    "location": "Hebbal",
+    "latitude": 13.0350,
+    "longitude": 77.5970,
+    "contact": "8899776655",
+    "status": "New"
+  },
+  {
+    "id": 10,
+    "animalType": "Pigeon",
+    "description": "Pigeon unable to fly, stuck on terrace.",
+    "location": "Rajajinagar",
+    "latitude": 12.9911,
+    "longitude": 77.5536,
+    "contact": "9087654321",
+    "status": "Resolved"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Pet Lovers Bangalore",
+    "description": "A fun space for pet parents to share and learn!",
+    "location": "Bangalore, India",
+    "membersCount": 142,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOWTdaDikcxZkxIrO1PMWp4TT61TpWok4aCQ&s"
+  },
+  {
+    "id": "2",
+    "name": "Adopt & Rescue Circle",
+    "description": "Dedicated to helping stray animals find homes.",
+    "location": "Chennai, India",
+    "membersCount": 97,
+    "image": "https://t3.ftcdn.net/jpg/04/40/15/70/360_F_440157013_kIXrsaMEkR9mKawzYYr6NftpDT52d5kE.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Vet Help Group",
+    "description": "Ask vets questions, share experiences and treatments.",
+    "location": "Hyderabad, India",
+    "membersCount": 220,
+    "image": "https://www.tracyvets.com/files/Parakeets.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Foster Care Network",
+    "description": "Find temporary homes for rescued animals.",
+    "location": "Mumbai, India",
+    "membersCount": 58,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLhQPJ4OY2UaPAqqLdb-MKHk4GKBYji9nbw&s"
+  }
+]

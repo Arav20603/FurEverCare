@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Shreyas Pet Hospital",
+    "address": "123 Pet Street, Richmond",
+    "image": "https://content.jdmagicbox.com/v2/comp/bangalore/29/080p5161529/catalogue/shreyas-pet-hospital-basaveshwara-nagar-bangalore-pet-shops-qfu7gqnw2o.jpg",
+    "latitude": 19.076,
+    "longitude": 72.8777
+  },
+  {
+    "id": "2",
+    "name": "Pet Clinic",
+    "address": "456 Rescue Lane, Kammanahalli",
+    "image": "https://content.jdmagicbox.com/v2/comp/bangalore/z2/080pxx80.xx80.170613185508.j6z2/catalogue/lifeline-pet-clinic-nagasandra-bangalore-veterinary-clinics-gtiyys5jg5.jpg",
+    "latitude": 28.6139,
+    "longitude": 77.209
+  },
+  {
+    "id": "3",
+    "name": "Advitha Pet hospitals",
+    "address": "789 Wellness Ave, Bangalore",
+    "image": "https://content.jdmagicbox.com/v2/comp/bangalore/s4/080pxx80.xx80.180403205012.i7s4/catalogue/advitha-pet-clinic-electronic-city-phase-1-bangalore-veterinary-hospitals-xtwqoofc9l.jpg",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "id": "4",
+    "name": "Vet Pro",
+    "address": "978 Bagalagunte, Bangalore",
+    "image": "https://content.jdmagicbox.com/v2/comp/bangalore/g3/080pxx80.xx80.130424183011.u2g3/catalogue/nandi-pet-clinic-hessargatta-main-road-bangalore-veterinary-clinics-0ob8x9mluo.jpg",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  },
+  {
+    "id": "5",
+    "name": "Hospital Veterinary",
+    "address": "345 KR Puram, Bangalore",
+    "image": "https://assets-global.website-files.com/5f7adfe5ed7d773f90050d9e/61440d8008cd0dfd2e7c319b_amc-kl.jpg",
+    "latitude": 12.9716,
+    "longitude": 77.5946
+  }
+]
