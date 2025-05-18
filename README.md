@@ -38,28 +38,39 @@
 
 ---
 
-## 📸 Screenshots (Organized by User Flow)  
+## 📸 Screenshots  
+<table>  
+  <tr align="center">
+    <td width="33%"><b>Landing Page</b></td>
+    <td width="33%"><b>Login</b></td>
+    <td width="33%"><b>Home</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8efeb82d-f4e5-489c-9d2c-3798263e1c6b" width="100%" alt="Landing"></td>
+    <td><img src="https://github.com/user-attachments/assets/94c821c2-6e24-4ccb-a5ba-da0cc0ac3f0f" width="100%" alt="Login"></td>
+    <td><img src="https://github.com/user-attachments/assets/c40bf509-8ba6-45c1-99f1-fcf8da6e8d83" width="100%" alt="Home"></td>
+  </tr>
+  <tr align="center">
+    <td><b>Community</b></td>
+    <td><b>SOS Emergency</b></td>
+    <td><b>Pet Commerce</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bc43991e-fda0-4893-ae46-098baf4a65b2" width="100%" alt="Community"></td>
+    <td><img src="https://github.com/user-attachments/assets/0cacd861-2985-45bd-bdbc-61bd0ad888d8" width="100%" alt="SOS"></td>
+    <td><img src="https://github.com/user-attachments/assets/fbe1fc12-ffb3-4f9f-a158-af42de47942d" width="100%" alt="Commerce"></td>
+  </tr>
+  <tr align="center">
+    <td colspan="3"><b>Rescue Center Interface</b></td>
+  </tr>
 
-### **Landing Page**  
-![landing](https://github.com/user-attachments/assets/c712d90d-862b-4101-88f3-63dd22d78471)
+  <tr top="100px">
+    <td><img src="https://github.com/user-attachments/assets/06068bf5-c088-4d63-8908-44412ea1dc0f" width="100%" alt="Landing"></td>
+    <td><img src="https://github.com/user-attachments/assets/94c821c2-6e24-4ccb-a5ba-da0cc0ac3f0f" width="100%" alt="Login"></td>
+    <td><img src="https://github.com/user-attachments/assets/3bf49a6a-d0fb-4290-b40a-26e73073b335" width="100%" alt="Rescue Center"></td>
+  </tr>
+</table>
 
-### **Login page**  
-![login](https://github.com/user-attachments/assets/94c821c2-6e24-4ccb-a5ba-da0cc0ac3f0f)
-
-### **Home Page**
-![home](https://github.com/user-attachments/assets/c40bf509-8ba6-45c1-99f1-fcf8da6e8d83)
-
-### **Community Page**  
-![community](https://github.com/user-attachments/assets/bc43991e-fda0-4893-ae46-098baf4a65b2)
-
-### **SOS - Emergency Page**
-![sos](https://github.com/user-attachments/assets/0cacd861-2985-45bd-bdbc-61bd0ad888d8)
-
-### **Pet - Commerce Page**
-![petcommerce](https://github.com/user-attachments/assets/fbe1fc12-ffb3-4f9f-a158-af42de47942d)
-
-### **Rescue Center Page**
-![rescue-interface](https://github.com/user-attachments/assets/3bf49a6a-d0fb-4290-b40a-26e73073b335)
 
 
 ## 🚀 Installation  
